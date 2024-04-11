@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.balu {
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  align-items: center;
+  padding: 20px;
+}
+.lol {
+  display: flex;
+}
+h1 {
+  color: white;
+}
+.img {
+  height: 50px;
+  width: 50px;
+  align-self: center;
+  margin: 20px;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+}

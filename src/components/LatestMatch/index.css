@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.kick {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1e293b;
+}
+p {
+  color: white;
+  margin:10px;
+}
+h1 {
+  color: white;
+  margin:10px;
+}
+.ooo {
+  height: 300px;
+  width: 300px;
+}

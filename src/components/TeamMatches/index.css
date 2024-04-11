@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.poll {
+  display: flex;
+  background-image: linear-gradient(#a4261d, #0f172a);
+  padding: 20px;
+}
+.teamBanner{
+  height:500px;
+  width:80vw;
+  
+}
